@@ -9,6 +9,7 @@ Also, it includes React Router Dom
 2. React router dom
 3. React icons
 4. Json server (for simple backand)
+5. React Toastify 
 
 ## How do you start the App 
 
