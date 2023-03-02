@@ -14,6 +14,25 @@ Also, it includes React Router Dom
 
 First, clone this project to your device
 ```
-git clone 
+git clone https://github.com/mertseyit/blog-app.git
 ```
+
+Secondly open the project on your any IDE. Then open the terminal screen install npm packages. ( I'm using VS Code IDE ): 
+```
+npm install
+```
+
+After that, type this command for start the server. (If you are using 3001 port, change this)
+
+```
+npx json-server -p 3001 -w data/db.json
+```
+
+
+And finally , open the another terminal screen and type this command: 
+```
+npm start
+```
+
+The project will start
 
