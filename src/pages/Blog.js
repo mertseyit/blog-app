@@ -22,7 +22,7 @@ const Blog = ({handleDelete }) => {
   },[id])
   
   return (
-    <div style={{padding:'20px'}}>
+    <div style={{padding:'20px', marginBottom:'30px'}}>
       {blog && (
           <div className='single-blog'>
             <h2>{blog.title}</h2>

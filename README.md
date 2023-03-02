@@ -36,3 +36,38 @@ npm start
 
 The project will start
 
+
+If you want update the db.js, you can use this data :
+
+``` json
+    {
+        "posts": [
+            {
+            "name": "John ",
+            "lastname": "Cremer",
+            "title": "How the use react icons ?",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo magnam ipsum architecto ipsa reprehenderit cumque velit quidem odit adipisci fuga, ratione laboriosam pariatur aliquid in, corrupti repellat accusantium maxime. Ipsam recusandae excepturi porro facere quaerat corporis quo a sunt molestiae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo esse recusandae maiores natus assumenda pariatur molestiae ipsam eaque eligendi, delectus porro ipsum quod facilis, autem suscipit corporis! Rerum fugit iusto eius consequuntur? Quidem quas repellendus alias autem aliquam ipsa iure.",
+            "like": 0,
+            "id": 1
+            },
+            {
+            "name": "Jason ",
+            "lastname": "Xia",
+            "title": "How to use JSON Server to mock REST API in local environment",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo magnam ipsum architecto ipsa reprehenderit cumque velit quidem odit adipisci fuga, ratione laboriosam pariatur aliquid in, corrupti repellat accusantium maxime. Ipsam recusandae excepturi porro facere quaerat corporis quo a sunt molestiae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo esse recusandae maiores natus assumenda pariatur molestiae ipsam eaque eligendi, delectus porro ipsum quod facilis, autem suscipit corporis! Rerum fugit iusto eius consequuntur? Quidem quas repellendus alias autem aliquam ipsa iure.",
+            "like": 0,
+            "id": 2
+            },
+            {
+            "name": "Ant",
+            "lastname": "Man",
+            "title": "Updating Firmware for Toast Flex",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo magnam ipsum architecto ipsa reprehenderit cumque velit quidem odit adipisci fuga, ratione laboriosam pariatur aliquid in, corrupti repellat accusantium maxime. Ipsam recusandae excepturi porro facere quaerat corporis quo a sunt molestiae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo esse recusandae maiores natus assumenda pariatur molestiae ipsam eaque eligendi, delectus porro ipsum quod facilis, autem suscipit corporis! Rerum fugit iusto eius consequuntur? Quidem quas repellendus alias autem aliquam ipsa iure.",
+            "like": 0,
+            "id": 3
+            }
+        ]
+}
+
+```
+
